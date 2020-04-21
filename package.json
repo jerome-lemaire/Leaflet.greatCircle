@@ -1,0 +1,9 @@
+{
+  "name": "Leaflet.greatCircle",
+  "version": "1.0.0",
+  "description": "A plugin wrapper class for the Leaflet.js Polygon object that draws it as a great circle",
+  "main": "Leaflet.greatCircle.js",
+  "repository": "https://github.com/jerome-lemaire/Leaflet.greatCircle.git",
+  "author": "Jerome Lemaire <jerome.lemaire@or2s.com>",
+  "license": "MIT"
+}
